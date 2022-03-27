@@ -6,7 +6,12 @@ KELAS   : TI.20.D.1
 
 ## Membuat dokumn List HTML
 Persiapan membuat dokumen HTML dengan nama <b>lab3_list.html</b> seperti berikut.
-![Gambar 1](screenshot/1..png)
-<p>kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:</p>
-![Gambar 2](screenshot/2.png)
+![Gambar1](screenshot/1..png)
+### Membuat Ordered List
+Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
+![Gambar2](screenshot/2.png)
+![Gambar3](screenshot/3.png)
+### Membuat Unordered List
+Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada
+section <mark><yelow>unordered-list</yelow></mark>, seperti berikut
 
