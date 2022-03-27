@@ -6,4 +6,7 @@ KELAS   : TI.20.D.1
 
 ## Membuat dokumn List HTML
 Persiapan membuat dokumen HTML dengan nama <b>lab3_list.html</b> seperti berikut.
-![Gambar](screenshot/1..png)
+![Gambar 1](screenshot/1..png)
+<p>kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:</p>
+![Gambar 2](screenshot/2.png)
+
